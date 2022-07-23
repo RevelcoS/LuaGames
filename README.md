@@ -15,3 +15,6 @@ To launch these projects you will have to download Corona SDK.
 This game is followed by the [tutorial](https://docs.coronalabs.com/guide/programming/index.html)
 
 ![Space-Explorer](https://github.com/RevelcoS/LuaGames/blob/master/gifs/space_explorer.gif)
+
+## Tic-Tac-Toe
+![Tic-Tac-Toe](https://github.com/RevelcoS/LuaGames/blob/master/gifs/tic-tac-toe.gif)
